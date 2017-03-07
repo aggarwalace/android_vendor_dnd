@@ -143,7 +143,7 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     LiveLockScreenService \
     LockClock \
-    masquerade \
+    ThemeInterfacer \
     WeatherProvider
 
 # Extra tools in CM
