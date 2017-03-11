@@ -135,7 +135,8 @@ PRODUCT_PACKAGES += \
     SnapdragonGallery \
     AboutDND \
     Launcher3 \
-    DNDWalls
+    DNDWalls \
+    OmniJaws
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
